@@ -19,3 +19,11 @@ For styling, CSS3 was used to make the layout visually appealing and responsive.
 The entire project was developed using Visual Studio Code (VS Code), a powerful and efficient code editor. It offers built-in debugging, syntax highlighting, and support for various extensions like Live Server, which was used to preview the application in real-time. Development was carried out on a Windows 11 environment, and testing was done across browsers such as Google Chrome and Mozilla Firefox to ensure cross-browser compatibility.
 This type of quiz application has a wide range of real-world applications. In education, it can be used by teachers to assess students’ understanding or provide practice tests. In corporate environments, it can serve as a tool for employee training and evaluation. For internships or online courses, it can help evaluate participant learning and even generate a certificate of completion. Additionally, it can be used for events and contests, where participants can engage with content in a fun and competitive way.
 In conclusion, this project not only demonstrates technical skills in frontend development but also offers a practical solution for interactive learning and assessment. It is scalable, customizable, and can be enhanced with features like timers, question randomization, user authentication, or even PDF certificate generation upon successful completion. I have used the vs code to this project
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/40ed7c32-7b06-49ee-a6ae-c9d76524b8cf)
+![Image](https://github.com/user-attachments/assets/98b3bcb1-3856-4045-be49-13083dc8c77f)
+![Image](https://github.com/user-attachments/assets/fac39aed-c011-4676-847f-e2dbb803a087)
+![Image](https://github.com/user-attachments/assets/900e0689-14a6-422a-9d35-e21f2747552d)
+
